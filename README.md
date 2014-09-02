@@ -1,11 +1,9 @@
 Links
 =====
 
-Repositorium de sites sobre diseño on y off
+Repositorium de sites sobre diseño on y off | *Sites repository about on and off design*
 
-*Sites repository about on and off design*
-
-#Diseño / *Design*
+#Diseño | *Design*
 
 * [Bench](http://www.bench.li): Inspiración
 * [Design Inspiration](designspiration.net): Inspiración
