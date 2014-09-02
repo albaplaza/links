@@ -3,7 +3,7 @@ Links
 
 Repositorium de sites sobre diseño y tecnología | *Sites repository about design and technology*
 
-##Diseño / Design
+##Diseño | Design
 
 * [Bench](http://www.bench.li)
 * [Design Inspiration](designspiration.net)
